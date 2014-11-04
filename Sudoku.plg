@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Sudoku - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x409 /fo"Release/Sudoku.res" /d "NDEBUG" /d "_AFXDLL" "c:\Visual C Projects\Sudoku\Sudoku.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/Sudoku.pdb" /machine:I386 /out:"Release/Sudoku.exe"  ".\Release\StdAfx.obj" ".\Release\Sudoku.obj" ".\Release\SudokuDlg.obj" ".\Release\Sudoku.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+Sudoku.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

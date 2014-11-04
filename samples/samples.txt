@@ -1,0 +1,8 @@
+This directory contains three sample puzzles for the Sudoku Solver program.
+
+To load a puzzle, double-click on it, and then click Yes. Then, run the 
+Sudoku Solver and the puzzle will be loaded.
+
+The Sudoku Solver is an open-source Windows application for solving Sudoku
+(Number Place) puzzles. You can download it for free from
+http://www.technion.ac.il/~zvikabh/software .
